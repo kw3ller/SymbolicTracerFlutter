@@ -1,0 +1,4292 @@
+[
+    {
+        "fileName": "/data/riotbuild/riotbase/cpu/riscv_common/start.S",
+        "codeLines": [
+            {
+                "line": 38,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 44,
+                "exeCount": 2,
+                "branchCount": 1
+            },
+            {
+                "line": 51,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 55,
+                "exeCount": 2,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/iot4uriotexamples/gcoap-sym-ex/main.c",
+        "codeLines": [
+            {
+                "line": 36,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 39,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 46,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 50,
+                "exeCount": 1,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/iot4uriotexamples/gcoap-sym-ex/symex.c",
+        "codeLines": [
+            {
+                "line": 45,
+                "exeCount": 1,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/auto_init/auto_init.c",
+        "codeLines": [
+            {
+                "line": 343,
+                "exeCount": 2,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/core/lib/include/list.h",
+        "codeLines": [
+            {
+                "line": 71,
+                "exeCount": 3,
+                "branchCount": 3
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/core/mbox.c",
+        "codeLines": [
+            {
+                "line": 76,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 77,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 117,
+                "exeCount": 0,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/core/lib/include/cib.h",
+        "codeLines": [
+            {
+                "line": 163,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 61,
+                "exeCount": 1,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/core/msg.c",
+        "codeLines": [
+            {
+                "line": 48,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 204,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 99,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 112,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 117,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 123,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 131,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 145,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 361,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 366,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 371,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 410,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 386,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 66,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 69,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 77,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 80,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 276,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 296,
+                "exeCount": 0,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/cpu/riscv_common/include/thread_arch.h",
+        "codeLines": [
+            {
+                "line": 48,
+                "exeCount": 5,
+                "branchCount": 10
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/core/mutex.c",
+        "codeLines": [
+            {
+                "line": 105,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 57,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 161,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 167,
+                "exeCount": 1,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/core/lib/include/bitarithm.h",
+        "codeLines": [
+            {
+                "line": 202,
+                "exeCount": 2,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/core/sched.c",
+        "codeLines": [
+            {
+                "line": 182,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 197,
+                "exeCount": 2,
+                "branchCount": 1
+            },
+            {
+                "line": 267,
+                "exeCount": 2,
+                "branchCount": 1
+            },
+            {
+                "line": 268,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 273,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 293,
+                "exeCount": 1,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/core/lib/include/clist.h",
+        "codeLines": [
+            {
+                "line": 134,
+                "exeCount": 2,
+                "branchCount": 5
+            },
+            {
+                "line": 175,
+                "exeCount": 3,
+                "branchCount": 3
+            },
+            {
+                "line": 177,
+                "exeCount": 2,
+                "branchCount": 3
+            },
+            {
+                "line": 205,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 330,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 286,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 336,
+                "exeCount": 0,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/core/thread.c",
+        "codeLines": [
+            {
+                "line": 161,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 195,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 208,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 237,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 243,
+                "exeCount": 2,
+                "branchCount": 1
+            },
+            {
+                "line": 259,
+                "exeCount": 2,
+                "branchCount": 1
+            },
+            {
+                "line": 306,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 312,
+                "exeCount": 2,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/core/thread_flags.c",
+        "codeLines": [
+            {
+                "line": 34,
+                "exeCount": 1,
+                "branchCount": 2
+            },
+            {
+                "line": 46,
+                "exeCount": 0,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/core/lib/panic.c",
+        "codeLines": [
+            {
+                "line": 61,
+                "exeCount": 0,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/core/lib/rmutex.c",
+        "codeLines": [
+            {
+                "line": 41,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 87,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 91,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 131,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 140,
+                "exeCount": 1,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/cpu/fe310/clock.c",
+        "codeLines": [
+            {
+                "line": 33,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 39,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 51,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 68,
+                "exeCount": 1,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/event/event.c",
+        "codeLines": [
+            {
+                "line": 38,
+                "exeCount": 2,
+                "branchCount": 2
+            },
+            {
+                "line": 47,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 77,
+                "exeCount": 2,
+                "branchCount": 2
+            },
+            {
+                "line": 86,
+                "exeCount": 2,
+                "branchCount": 1
+            },
+            {
+                "line": 91,
+                "exeCount": 2,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/event/timeout_ztimer.c",
+        "codeLines": [
+            {
+                "line": 46,
+                "exeCount": 0,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/evtimer/evtimer.c",
+        "codeLines": [
+            {
+                "line": 128,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 132,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 113,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 191,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 38,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 54,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 170,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 40,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 73,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 74,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 87,
+                "exeCount": 0,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/frac/frac.c",
+        "codeLines": [
+            {
+                "line": 35,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 38,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 44,
+                "exeCount": 2,
+                "branchCount": 1
+            },
+            {
+                "line": 50,
+                "exeCount": 2,
+                "branchCount": 1
+            },
+            {
+                "line": 58,
+                "exeCount": 2,
+                "branchCount": 1
+            },
+            {
+                "line": 64,
+                "exeCount": 2,
+                "branchCount": 1
+            },
+            {
+                "line": 72,
+                "exeCount": 2,
+                "branchCount": 1
+            },
+            {
+                "line": 139,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 84,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 91,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 100,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 103,
+                "exeCount": 2,
+                "branchCount": 1
+            },
+            {
+                "line": 107,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 114,
+                "exeCount": 2,
+                "branchCount": 1
+            },
+            {
+                "line": 111,
+                "exeCount": 2,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/net/application_layer/gcoap/gcoap.c",
+        "codeLines": [
+            {
+                "line": 1036,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 750,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 766,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 970,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 973,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 1001,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1006,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1007,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1012,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1013,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1014,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 893,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 895,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 899,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 900,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 901,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 916,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 919,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 176,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 1389,
+                "exeCount": 2,
+                "branchCount": 1
+            },
+            {
+                "line": 1631,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 1642,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 313,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 334,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 338,
+                "exeCount": 2,
+                "branchCount": 1
+            },
+            {
+                "line": 341,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 356,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 390,
+                "exeCount": 2,
+                "branchCount": 1
+            },
+            {
+                "line": 403,
+                "exeCount": 2,
+                "branchCount": 1
+            },
+            {
+                "line": 406,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 413,
+                "exeCount": 2,
+                "branchCount": 1
+            },
+            {
+                "line": 464,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 502,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 416,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 418,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 421,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 423,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 611,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 438,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 808,
+                "exeCount": 2,
+                "branchCount": 1
+            },
+            {
+                "line": 822,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 827,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 833,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 648,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 652,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 653,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 654,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 693,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 698,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 736,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 447,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 662,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 671,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 675,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 682,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 704,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 707,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 714,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 721,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 518,
+                "exeCount": 2,
+                "branchCount": 1
+            },
+            {
+                "line": 1725,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1742,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1751,
+                "exeCount": 0,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/include/net/gcoap.h",
+        "codeLines": [
+            {
+                "line": 1174,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1040,
+                "exeCount": 1,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/include/event.h",
+        "codeLines": [
+            {
+                "line": 427,
+                "exeCount": 1,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/include/net/nanocoap.h",
+        "codeLines": [
+            {
+                "line": 556,
+                "exeCount": 0,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/net/gnrc/network_layer/icmpv6/gnrc_icmpv6.c",
+        "codeLines": [
+            {
+                "line": 44,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 63,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 69,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 81,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 116,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 128,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 147,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 150,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 156,
+                "exeCount": 0,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/include/net/ipv6/hdr.h",
+        "codeLines": [
+            {
+                "line": 286,
+                "exeCount": 0,
+                "branchCount": 2
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/net/gnrc/network_layer/ipv6/gnrc_ipv6.c",
+        "codeLines": [
+            {
+                "line": 312,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 266,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 268,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 298,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 348,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 364,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 372,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 373,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 355,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 380,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 394,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 397,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 393,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 427,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 424,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 437,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 451,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 197,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 677,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 750,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 754,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 768,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 793,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 805,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 826,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 834,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 730,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 733,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 858,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 146,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 151,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 155,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 160,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 168,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 837,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 694,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 701,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 565,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 568,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 538,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 581,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 592,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 600,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 716,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 636,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 646,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 499,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 507,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 508,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 612,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 510,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 85,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 131,
+                "exeCount": 1,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/include/net/gnrc/pkt.h",
+        "codeLines": [
+            {
+                "line": 155,
+                "exeCount": 0,
+                "branchCount": 5
+            },
+            {
+                "line": 247,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 214,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 219,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 225,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 226,
+                "exeCount": 0,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/include/net/gnrc/netif/hdr.h",
+        "codeLines": [
+            {
+                "line": 384,
+                "exeCount": 0,
+                "branchCount": 2
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/include/net/ipv6/addr.h",
+        "codeLines": [
+            {
+                "line": 412,
+                "exeCount": 0,
+                "branchCount": 5
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/include/net/gnrc/nettype.h",
+        "codeLines": [
+            {
+                "line": 223,
+                "exeCount": 0,
+                "branchCount": 2
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/net/gnrc/network_layer/ipv6/hdr/gnrc_ipv6_hdr.c",
+        "codeLines": [
+            {
+                "line": 43,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 50,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 63,
+                "exeCount": 1,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/net/gnrc/network_layer/ipv6/nib/_nib-arsm.c",
+        "codeLines": [
+            {
+                "line": 493,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 494,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 72,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 78,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 96,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 101,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 106,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 108,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 107,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 123,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 283,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 294,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 296,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 303,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 220,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 222,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 260,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 346,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 347,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 348,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 350,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 355,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 357,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 361,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 513,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 395,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 413,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 406,
+                "exeCount": 0,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/net/gnrc/network_layer/ipv6/nib/_nib-internal.h",
+        "codeLines": [
+            {
+                "line": 367,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 593,
+                "exeCount": 0,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/net/gnrc/network_layer/ipv6/nib/_nib-arsm.h",
+        "codeLines": [
+            {
+                "line": 109,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 117,
+                "exeCount": 0,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/include/net/gnrc/pktqueue.h",
+        "codeLines": [
+            {
+                "line": 63,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 64,
+                "exeCount": 0,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/net/gnrc/network_layer/ipv6/nib/_nib-internal.c",
+        "codeLines": [
+            {
+                "line": 860,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 86,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 100,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 106,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 111,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 219,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 225,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 228,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 229,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 280,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 177,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 183,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 137,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 122,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 162,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 166,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 315,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 351,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 352,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 367,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 378,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 390,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 394,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 405,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 410,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 411,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 412,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 428,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 437,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 441,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 460,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 475,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 488,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 489,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 490,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 491,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 495,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 501,
+                "exeCount": 0,
+                "branchCount": 3
+            },
+            {
+                "line": 505,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 509,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 540,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 544,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 542,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 559,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 607,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 623,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 595,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 583,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 629,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 634,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 692,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 698,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 704,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 827,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 830,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 836,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 884,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 886,
+                "exeCount": 0,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/net/gnrc/network_layer/ipv6/nib/_nib-slaac.c",
+        "codeLines": [
+            {
+                "line": 183,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 189,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 49,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 59,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 64,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 105,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 141,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 142,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 145,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 199,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 207,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 221,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 226,
+                "exeCount": 0,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/include/net/gnrc/netif/internal.h",
+        "codeLines": [
+            {
+                "line": 646,
+                "exeCount": 0,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/net/gnrc/network_layer/ipv6/nib/nib.c",
+        "codeLines": [
+            {
+                "line": 1438,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1445,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1446,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 1447,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1336,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1277,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1387,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 1311,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1314,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1272,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 1366,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 98,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 131,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 158,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 263,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 266,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 273,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 278,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 288,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 225,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 224,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 231,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 337,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 282,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 303,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 308,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 327,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 317,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 331,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 220,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 362,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 645,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 664,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 721,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 725,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 746,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 750,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 753,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 762,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 778,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 841,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 665,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 670,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 741,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1602,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1603,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1625,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1571,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1572,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1570,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1633,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1639,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1641,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1644,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1646,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 971,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 972,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 991,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 997,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1019,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1029,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1030,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 998,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1003,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1049,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1062,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1067,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 907,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 924,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 890,
+                "exeCount": 0,
+                "branchCount": 4
+            },
+            {
+                "line": 1147,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1173,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1183,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1148,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1153,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1200,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1209,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1231,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1236,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1402,
+                "exeCount": 0,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/net/gnrc/network_layer/ipv6/nib/nib_pl.c",
+        "codeLines": [
+            {
+                "line": 36,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 42,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 43,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 49,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 57,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 67,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 68,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 132,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 134,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 135,
+                "exeCount": 0,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/net/gnrc/network_layer/ndp/gnrc_ndp.c",
+        "codeLines": [
+            {
+                "line": 622,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 629,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 43,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 46,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 63,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 66,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 85,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 130,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 150,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 163,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 173,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 274,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 275,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 293,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 298,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 301,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 305,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 314,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 321,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 327,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 349,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 350,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 360,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 367,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 383,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 387,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 377,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 409,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 416,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 422,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 440,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 441,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 452,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 455,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 458,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 466,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 473,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 479,
+                "exeCount": 0,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/net/gnrc/netapi/gnrc_netapi.c",
+        "codeLines": [
+            {
+                "line": 92,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 97,
+                "exeCount": 2,
+                "branchCount": 1
+            },
+            {
+                "line": 100,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 102,
+                "exeCount": 0,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/net/gnrc/netif/gnrc_netif.c",
+        "codeLines": [
+            {
+                "line": 936,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 937,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 942,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 941,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 972,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 979,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 983,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1009,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1014,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1017,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 130,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 481,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 491,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 498,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 723,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 736,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 751,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 1071,
+                "exeCount": 0,
+                "branchCount": 3
+            },
+            {
+                "line": 1084,
+                "exeCount": 0,
+                "branchCount": 4
+            },
+            {
+                "line": 1172,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1178,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1184,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1242,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1131,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1139,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1146,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1258,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 760,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 758,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1188,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1140,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 774,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 775,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 778,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 824,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 829,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 841,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 845,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 600,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 601,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 612,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 632,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 658,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 663,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 659,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 870,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 876,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 881,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 883,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 887,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 892,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 902,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 693,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 697,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 712,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 707,
+                "exeCount": 0,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/net/gnrc/netif/gnrc_netif_device_type.c",
+        "codeLines": [
+            {
+                "line": 224,
+                "exeCount": 0,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/net/gnrc/netif/hdr/gnrc_netif_hdr.c",
+        "codeLines": [
+            {
+                "line": 27,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 33,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 37,
+                "exeCount": 0,
+                "branchCount": 2
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/net/gnrc/netreg/gnrc_netreg.c",
+        "codeLines": [
+            {
+                "line": 216,
+                "exeCount": 2,
+                "branchCount": 1
+            },
+            {
+                "line": 218,
+                "exeCount": 2,
+                "branchCount": 1
+            },
+            {
+                "line": 90,
+                "exeCount": 2,
+                "branchCount": 1
+            },
+            {
+                "line": 136,
+                "exeCount": 2,
+                "branchCount": 1
+            },
+            {
+                "line": 143,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 158,
+                "exeCount": 2,
+                "branchCount": 1
+            },
+            {
+                "line": 159,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 236,
+                "exeCount": 2,
+                "branchCount": 1
+            },
+            {
+                "line": 247,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 252,
+                "exeCount": 0,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/net/gnrc/pkt/gnrc_pkt.c",
+        "codeLines": [
+            {
+                "line": 23,
+                "exeCount": 2,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/net/gnrc/pktbuf/gnrc_pktbuf.c",
+        "codeLines": [
+            {
+                "line": 91,
+                "exeCount": 2,
+                "branchCount": 1
+            },
+            {
+                "line": 96,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 66,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 72,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 77,
+                "exeCount": 0,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/net/gnrc/pktbuf_static/gnrc_pktbuf_static.c",
+        "codeLines": [
+            {
+                "line": 398,
+                "exeCount": 2,
+                "branchCount": 2
+            },
+            {
+                "line": 408,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 436,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 425,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 226,
+                "exeCount": 2,
+                "branchCount": 1
+            },
+            {
+                "line": 519,
+                "exeCount": 2,
+                "branchCount": 1
+            },
+            {
+                "line": 477,
+                "exeCount": 2,
+                "branchCount": 1
+            },
+            {
+                "line": 485,
+                "exeCount": 2,
+                "branchCount": 2
+            },
+            {
+                "line": 500,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 509,
+                "exeCount": 2,
+                "branchCount": 2
+            },
+            {
+                "line": 505,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 462,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 374,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 378,
+                "exeCount": 2,
+                "branchCount": 1
+            },
+            {
+                "line": 380,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 385,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 108,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 236,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 243,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 127,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 137,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 144,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 147,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 154,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 185,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 186,
+                "exeCount": 1,
+                "branchCount": 2
+            },
+            {
+                "line": 189,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 195,
+                "exeCount": 1,
+                "branchCount": 2
+            },
+            {
+                "line": 201,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 203,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 208,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 214,
+                "exeCount": 0,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/net/gnrc/sock/gnrc_sock.c",
+        "codeLines": [
+            {
+                "line": 69,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 76,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 124,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 171,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 144,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 156,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 182,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 186,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 192,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 216,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 259,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 262,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 279,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 291,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 283,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 309,
+                "exeCount": 0,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/net/gnrc/sock/include/gnrc_sock_internal.h",
+        "codeLines": [
+            {
+                "line": 109,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 134,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 135,
+                "exeCount": 0,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/net/gnrc/sock/udp/gnrc_sock_udp.c",
+        "codeLines": [
+            {
+                "line": 92,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 93,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 94,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 101,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 104,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 95,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 96,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 107,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 130,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 134,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 141,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 146,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 251,
+                "exeCount": 3,
+                "branchCount": 3
+            },
+            {
+                "line": 258,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 263,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 278,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 282,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 284,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 222,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 228,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 294,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 327,
+                "exeCount": 1,
+                "branchCount": 2
+            },
+            {
+                "line": 329,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 333,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 336,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 339,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 340,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 341,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 361,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 364,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 384,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 393,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 403,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 412,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 420,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 346,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 406,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 425,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 429,
+                "exeCount": 0,
+                "branchCount": 2
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/net/gnrc/transport_layer/udp/gnrc_udp.c",
+        "codeLines": [
+            {
+                "line": 67,
+                "exeCount": 0,
+                "branchCount": 3
+            },
+            {
+                "line": 237,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 106,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 115,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 117,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 124,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 136,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 145,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 212,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 171,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 180,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 196,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 182,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 264,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 267,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 272,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 282,
+                "exeCount": 2,
+                "branchCount": 2
+            },
+            {
+                "line": 289,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 303,
+                "exeCount": 1,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/net/crosslayer/inet_csum/inet_csum.c",
+        "codeLines": [
+            {
+                "line": 40,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 43,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 50,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 55,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 58,
+                "exeCount": 0,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/iolist/iolist.c",
+        "codeLines": [
+            {
+                "line": 41,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 71,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 72,
+                "exeCount": 0,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/net/network_layer/ipv6/addr/ipv6_addr.c",
+        "codeLines": [
+            {
+                "line": 38,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 46,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 50,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 56,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 54,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 63,
+                "exeCount": 0,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/luid/luid.c",
+        "codeLines": [
+            {
+                "line": 34,
+                "exeCount": 4,
+                "branchCount": 2
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/net/application_layer/nanocoap/nanocoap.c",
+        "codeLines": [
+            {
+                "line": 602,
+                "exeCount": 3,
+                "branchCount": 2
+            },
+            {
+                "line": 607,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 661,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 648,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 710,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 713,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 210,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 211,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 165,
+                "exeCount": 2,
+                "branchCount": 2
+            },
+            {
+                "line": 183,
+                "exeCount": 2,
+                "branchCount": 1
+            },
+            {
+                "line": 243,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 246,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 250,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 251,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 74,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 78,
+                "exeCount": 2,
+                "branchCount": 1
+            },
+            {
+                "line": 95,
+                "exeCount": 2,
+                "branchCount": 1
+            },
+            {
+                "line": 98,
+                "exeCount": 2,
+                "branchCount": 1
+            },
+            {
+                "line": 139,
+                "exeCount": 2,
+                "branchCount": 1
+            },
+            {
+                "line": 145,
+                "exeCount": 2,
+                "branchCount": 1
+            },
+            {
+                "line": 150,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 106,
+                "exeCount": 2,
+                "branchCount": 1
+            },
+            {
+                "line": 111,
+                "exeCount": 2,
+                "branchCount": 1
+            },
+            {
+                "line": 118,
+                "exeCount": 2,
+                "branchCount": 1
+            },
+            {
+                "line": 119,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 125,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 273,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 342,
+                "exeCount": 2,
+                "branchCount": 2
+            },
+            {
+                "line": 345,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 357,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 358,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 729,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 740,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 880,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 882,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 889,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 1006,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 1007,
+                "exeCount": 0,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/net/netif/netif.c",
+        "codeLines": [
+            {
+                "line": 43,
+                "exeCount": 0,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/newlib_syscalls_default/syscalls.c",
+        "codeLines": [
+            {
+                "line": 191,
+                "exeCount": 1,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/cpu/fe310/periph/gpio.c",
+        "codeLines": [
+            {
+                "line": 57,
+                "exeCount": 1,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/cpu/fe310/periph/uart.c",
+        "codeLines": [
+            {
+                "line": 44,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 45,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 105,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 71,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 137,
+                "exeCount": 2,
+                "branchCount": 1
+            },
+            {
+                "line": 139,
+                "exeCount": 2,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/random/random.c",
+        "codeLines": [
+            {
+                "line": 81,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 87,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 101,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 90,
+                "exeCount": 0,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/cpu/riscv_common/irq_arch.c",
+        "codeLines": [
+            {
+                "line": 95,
+                "exeCount": 1,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/cpu/riscv_common/riscv_init.c",
+        "codeLines": [
+            {
+                "line": 38,
+                "exeCount": 1,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/cpu/riscv_common/periph/coretimer.c",
+        "codeLines": [
+            {
+                "line": 57,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 61,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 87,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 142,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 183,
+                "exeCount": 0,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/cpu/riscv_common/periph/plic.c",
+        "codeLines": [
+            {
+                "line": 120,
+                "exeCount": 2,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/net/sock/async/event/sock_async_event.c",
+        "codeLines": [
+            {
+                "line": 32,
+                "exeCount": 1,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/net/sock/sock_util.c",
+        "codeLines": [
+            {
+                "line": 329,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 332,
+                "exeCount": 0,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/ztimer/convert_frac.c",
+        "codeLines": [
+            {
+                "line": 63,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 87,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 88,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 108,
+                "exeCount": 2,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/include/ztimer.h",
+        "codeLines": [
+            {
+                "line": 836,
+                "exeCount": 1,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/ztimer/core.c",
+        "codeLines": [
+            {
+                "line": 117,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 384,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 386,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 409,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 410,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 423,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 348,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 356,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 346,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 274,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 265,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 305,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 307,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 318,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 140,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 182,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 187,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 239,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 251,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 49,
+                "exeCount": 0,
+                "branchCount": 2
+            },
+            {
+                "line": 241,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 449,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 453,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 456,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 478,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 513,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 483,
+                "exeCount": 0,
+                "branchCount": 1
+            },
+            {
+                "line": 495,
+                "exeCount": 0,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/sys/ztimer/periph_timer.c",
+        "codeLines": [
+            {
+                "line": 116,
+                "exeCount": 1,
+                "branchCount": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,289 @@
+[
+    {
+        "codeFiles": [
+            {
+                "fileName": "/absolute/path/to/exampleData/Code/main.c",
+                "codeLines": [
+                    {
+                        "line": 33,
+                        "exe_count": 18,
+                        "branch_count": 0,
+                        "branch_exe_count": 0,
+                        "symbolic_values": [
+                            {
+                                "akt_value": 2147484166,
+                                "max_value": 2147484416,
+                                "min_value": 2147484160
+                            },
+                            {
+                                "akt_value": 2147484166,
+                                "max_value": 2147484416,
+                                "min_value": 2147484160
+                            },
+                            {
+                                "akt_value": 2147484166,
+                                "max_value": 2147484416,
+                                "min_value": 2147484160
+                            },
+                            {
+                                "akt_value": 2147484165,
+                                "max_value": 2147484416,
+                                "min_value": 2147484160
+                            },
+                            {
+                                "akt_value": 2147484164,
+                                "max_value": 2147484416,
+                                "min_value": 2147484160
+                            },
+                            {
+                                "akt_value": 2147484163,
+                                "max_value": 2147484416,
+                                "min_value": 2147484160
+                            },
+                            {
+                                "akt_value": 2147484162,
+                                "max_value": 2147484416,
+                                "min_value": 2147484160
+                            },
+                            {
+                                "akt_value": 2147484161,
+                                "max_value": 2147484416,
+                                "min_value": 2147484160
+                            },
+                            {
+                                "akt_value": 2147484160,
+                                "max_value": 2147484416,
+                                "min_value": 2147484160
+                            },
+                            {
+                                "akt_value": 2147484165,
+                                "max_value": 2147484416,
+                                "min_value": 2147484160
+                            },
+                            {
+                                "akt_value": 2147484164,
+                                "max_value": 2147484416,
+                                "min_value": 2147484160
+                            },
+                            {
+                                "akt_value": 2147484163,
+                                "max_value": 2147484416,
+                                "min_value": 2147484160
+                            },
+                            {
+                                "akt_value": 2147484162,
+                                "max_value": 2147484416,
+                                "min_value": 2147484160
+                            },
+                            {
+                                "akt_value": 2147484161,
+                                "max_value": 2147484416,
+                                "min_value": 2147484160
+                            },
+                            {
+                                "akt_value": 2147484160,
+                                "max_value": 2147484416,
+                                "min_value": 2147484160
+                            },
+                            {
+                                "akt_value": 2147484165,
+                                "max_value": 2147484416,
+                                "min_value": 2147484160
+                            },
+                            {
+                                "akt_value": 2147484164,
+                                "max_value": 2147484416,
+                                "min_value": 2147484160
+                            },
+                            {
+                                "akt_value": 2147484163,
+                                "max_value": 2147484416,
+                                "min_value": 2147484160
+                            },
+                            {
+                                "akt_value": 2147484162,
+                                "max_value": 2147484416,
+                                "min_value": 2147484160
+                            },
+                            {
+                                "akt_value": 2147484161,
+                                "max_value": 2147484416,
+                                "min_value": 2147484160
+                            },
+                            {
+                                "akt_value": 2147484416,
+                                "max_value": 2147484416,
+                                "min_value": 2147484160
+                            },{
+                                "akt_value": 2147484417,
+                                "max_value": 2147484416,
+                                "min_value": 2147484160
+                            },
+                            {
+                                "akt_value": 2147484163,
+                                "max_value": 2147484416,
+                                "min_value": 2147484160
+                            },
+                            {
+                                "akt_value": 2147484164,
+                                "max_value": 2147484416,
+                                "min_value": 2147484160
+                            },
+                            {
+                                "akt_value": 2147484165,
+                                "max_value": 2147484416,
+                                "min_value": 2147484160
+                            },
+                            {
+                                "akt_value": 2147484162,
+                                "max_value": 2147484416,
+                                "min_value": 2147484160
+                            },
+                            {
+                                "akt_value": 2147484161,
+                                "max_value": 2147484416,
+                                "min_value": 2147484160
+                            },
+                            {
+                                "akt_value": 2147484160,
+                                "max_value": 2147484416,
+                                "min_value": 2147484160
+                            }
+                        ]
+                    },
+                    {
+                        "line": 0,
+                        "exe_count": 18,
+                        "branch_count": 0,
+                        "branch_exe_count": 0
+                    },
+                    {
+                        "line": 35,
+                        "exe_count": 18,
+                        "branch_count": 2,
+                        "branch_exe_count": 3
+                    },
+                    {
+                        "line": 38,
+                        "exe_count": 18,
+                        "branch_count": 0,
+                        "branch_exe_count": 0
+                    },
+                    {
+                        "line": 36,
+                        "exe_count": 3,
+                        "branch_count": 0,
+                        "branch_exe_count": 0
+                    },
+                    {
+                        "line": 40,
+                        "exe_count": 3,
+                        "branch_count": 0,
+                        "branch_exe_count": 0
+                    },
+                    {
+                        "line": 53,
+                        "exe_count": 3,
+                        "branch_count": 0,
+                        "branch_exe_count": 0
+                    },
+                    {
+                        "line": 57,
+                        "exe_count": 3,
+                        "branch_count": 0,
+                        "branch_exe_count": 0
+                    },
+                    {
+                        "line": 64,
+                        "exe_count": 3,
+                        "branch_count": 0,
+                        "branch_exe_count": 0
+                    },
+                    {
+                        "line": 70,
+                        "exe_count": 3,
+                        "branch_count": 1,
+                        "branch_exe_count": 2
+                    },
+                    {
+                        "line": 77,
+                        "exe_count": 3,
+                        "branch_count": 1,
+                        "branch_exe_count": 2
+                    },
+                    {
+                        "line": 86,
+                        "exe_count": 3,
+                        "branch_count": 0,
+                        "branch_exe_count": 0
+                    },
+                    {
+                        "line": 89,
+                        "exe_count": 3,
+                        "branch_count": 1,
+                        "branch_exe_count": 1
+                    },
+                    {
+                        "line": 98,
+                        "exe_count": 3,
+                        "branch_count": 0,
+                        "branch_exe_count": 0
+                    },
+                    {
+                        "line": 99,
+                        "exe_count": 0,
+                        "branch_count": 0,
+                        "branch_exe_count": 0
+                    }
+                ]
+            },
+            {
+                "fileName": "/absolute/path/to/exampleData/Code/symex.c",
+                "codeLines": [
+                    {
+                        "line": 13,
+                        "exe_count": 3,
+                        "branch_count": 0,
+                        "branch_exe_count": 0
+                    },
+                    {
+                        "line": 14,
+                        "exe_count": 3,
+                        "branch_count": 0,
+                        "branch_exe_count": 0
+                    },
+                    {
+                        "line": 15,
+                        "exe_count": 3,
+                        "branch_count": 0,
+                        "branch_exe_count": 0
+                    },
+                    {
+                        "line": 16,
+                        "exe_count": 3,
+                        "branch_count": 0,
+                        "branch_exe_count": 0
+                    },
+                    {
+                        "line": 26,
+                        "exe_count": 3,
+                        "branch_count": 0,
+                        "branch_exe_count": 0
+                    },
+                    {
+                        "line": 27,
+                        "exe_count": 3,
+                        "branch_count": 0,
+                        "branch_exe_count": 0
+                    },
+                    {
+                        "line": 28,
+                        "exe_count": 0,
+                        "branch_count": 0,
+                        "branch_exe_count": 0
+                    }
+                ]
+            }
+        ]
+    }
+]

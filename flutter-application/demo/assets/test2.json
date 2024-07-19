@@ -1,0 +1,52 @@
+[
+    {
+        "fileName": "/data/riotbuild/riotbase/cpu/riscv_common/start.S",
+        "codeLines": [
+            {
+                "line": 38,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 44,
+                "exeCount": 2,
+                "branchCount": 1
+            },
+            {
+                "line": 51,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 55,
+                "exeCount": 2,
+                "branchCount": 1
+            }
+        ]
+    },
+    {
+        "fileName": "/data/riotbuild/riotbase/iot4uriotexamples/gcoap-sym-ex/main.c",
+        "codeLines": [
+            {
+                "line": 36,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 39,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 46,
+                "exeCount": 1,
+                "branchCount": 1
+            },
+            {
+                "line": 50,
+                "exeCount": 1,
+                "branchCount": 1
+            }
+        ]
+    }
+]

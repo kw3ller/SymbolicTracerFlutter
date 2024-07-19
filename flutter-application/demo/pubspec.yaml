@@ -1,0 +1,36 @@
+name: symtrace
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.2 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  font_awesome_flutter: ^10.2.1
+  url_launcher: ^6.1.6
+  pluto_grid: ^6.0.0
+  pluto_menu_bar: ^2.0.1
+  pluto_layout: ^1.0.0
+  graphview: ^1.1.1
+  json_annotation: ^4.8.0
+  file_picker: ^5.2.6
+  provider: ^6.0.5
+  google_fonts: ^4.0.3
+  scroll_to_index: ^3.0.1
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  build_runner: ^2.3.3
+  json_serializable: ^6.6.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
